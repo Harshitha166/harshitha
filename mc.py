@@ -1,1 +1,2 @@
-This is thr first line
+This is the first line
+Making sure it is updating 
