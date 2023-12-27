@@ -1,2 +1,0 @@
-# devops
-Learn Devops
